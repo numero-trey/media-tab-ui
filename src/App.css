@@ -1,0 +1,12 @@
+body {
+  background-color: #333445;
+}
+
+.App {
+  color: #e7e7e7;
+}
+
+.App-control-row {
+  position: fixed;
+  bottom: 0%;
+}
